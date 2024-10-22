@@ -1,4 +1,8 @@
-print("="*40)
+# dibuat oleh dika prayoga gunawan
+# tanggal pengerjaan : 10 oktober 2024
+# program menghitung persegi
+
+("="*40)
 print("persegi")
 print("="*40)
 
