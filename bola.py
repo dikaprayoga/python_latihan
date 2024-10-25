@@ -1,6 +1,6 @@
-#dikerjakan oleh dika prayoga gunawan
-#tanggal pengerjaan 22 oktober 2024
-#program menghitung bola
+# dibuat oleh dika prayoga gunawan
+# tanggal pengerjaan 10 oktober 2024
+# progam menghitung bola
 
 print("="*40)
 print("bola")
