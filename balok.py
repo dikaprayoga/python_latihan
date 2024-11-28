@@ -16,4 +16,4 @@ l = 4 * (p + l + t)
 
 print(f"Luas Permukaan\t: {lp}")
 print(f"Volume\t\t: {v}")
-print(f"Keliling\t: {K}")
+print(f"Keliling\t: {l}")
